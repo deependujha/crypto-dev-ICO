@@ -1,0 +1,21 @@
+.env
+node_modules
+
+# ====================
+#  .env for hardhat
+# ====================
+
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# ====================
+# .env for Next.js
+# ====================
+
+
